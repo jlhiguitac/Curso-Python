@@ -1,0 +1,4 @@
+Entorno-virtual/
+venv/
+.mypy_cache/
+__pycache__/
